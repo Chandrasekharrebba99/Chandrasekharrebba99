@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working on **MERN stack Development**
 
-- 💬 Ask me about **react,node,JavaScript,Mysql,DSA in Python**
+- 💬 Ask me about **react,node,JavaScript,Mysql,DSA in Python,ML**
 
 - 📫 How to reach me **chandui17cy028@gmail.com**
 
