@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rebba Chandrasekhar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img width=25% src="https://www.linkpicture.com/q/FB_IMG_1510589410692.jpg" type="image">
+<img width=50% src="https://www.linkpicture.com/q/fsfwefwe.jpg" type="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekharrebba99&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekharrebba99" /> </p>
 
