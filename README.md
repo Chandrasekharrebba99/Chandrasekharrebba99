@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rebba Chandrasekhar</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <img width=25% src="https://www.linkpicture.com/q/FB_IMG_1510589410692.jpg" type="image">
-<a href='https://www.linkpicture.com/view.php?img=LPic63e55b9b7ca1f1538216832'><img src='https://www.linkpicture.com/q/dfbdhrh.jpg' type='image'></a>
+<img src='https://www.linkpicture.com/q/dfbdhrh.jpg' type='image'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekharrebba99&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekharrebba99" /> </p>
 
 - 🌱 I’m currently Working on **MERN stack Development**
