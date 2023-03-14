@@ -5,9 +5,9 @@
 <img src="https://www.linkpicture.com/q/scoreCardvd.jpg" type="image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekharrebba99&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekharrebba99" /> </p>
 
-- 🌱 I’m currently Working on **MERN stack Development**
+- 🌱 I’m currently Working on **MERN stack Development **
 
-- 💬 Ask me about **react,node,JavaScript,Mysql,DSA in Python,ML**
+- 💬 Ask me about **react,node,JavaScript,Mysql,DSA in Python,ML,JAVA Spring Boot**
 
 - 📫 How to reach me **chandui17cy028@gmail.com**
 
