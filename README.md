@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrasekharrebba99&show_icons=true&locale=en&layout=compact" alt="chandrasekharrebba99" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharrebba99&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekharrebba99&hide_progress=true)](https://github.com/chandrasekharrebba99/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrasekharrebba99&show_icons=true&locale=en" alt="chandrasekharrebba99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekharrebba99&" alt="chandrasekharrebba99" /></p>
