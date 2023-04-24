@@ -1,5 +1,5 @@
  ###
-<h1 align="center">Hi 👋, I'm Rebba Chandrasekhar</h1>
+<h1 align="center">Hi 👋, I'm Rebba Chandrasekhar</h1> 
 <h3 align="center">A passionate MERN stack developer and JAVA Backend</h3> 
 <img width=25% src="https://www.linkpicture.com/q/FB_IMG_1510589410692.jpg" type="image">
 <img src="https://www.linkpicture.com/q/scoreCardvd.jpg" type="image">
