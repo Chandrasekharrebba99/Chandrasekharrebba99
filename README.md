@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working on **MERN stack Development **
 
-- 💬 Ask me about **react,node,JavaScript,Mysql,DSA in Python,ML,JAVA Spring Boot**
+- 💬 Ask me about ** reactjs,nextjs,node,JavaScript,Mysql,DSA in Python,Knowledge in ML models, Django**
 
 - 📫 How to reach me **chandui17cy028@gmail.com**
 
