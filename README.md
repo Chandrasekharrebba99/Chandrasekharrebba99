@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekharrebba99&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekharrebba99" /> </p>
 
-- 🌱 I’m currently Working on **FERN stack Development **
+- 🌱 I’m currently Working on **MERN stack Django NextJS Development **
   
 - 💬 Ask me about ** reactjs,nextjs,node,JavaScript,Mysql,DSA in Python,Knowledge in ML models, Django**
 
